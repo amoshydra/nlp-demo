@@ -1,0 +1,13 @@
+/*
+    A Telegram bot token is required to run this project.
+
+    Follow the steps below to set up your token
+    1. locate `data/config.sample.js`
+    2. replace `const TELEGRAM_BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11';` with your own Telegram bot token
+    3. save the file as `data/config.js`
+    
+    If you do not have the token, visit https://core.telegram.org/bots/api to get one.
+*/
+
+const TELEGRAM_BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11';
+module.exports = TELEGRAM_BOT_TOKEN;
